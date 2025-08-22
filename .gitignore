@@ -1,0 +1,13 @@
+# Environments
+.env
+/env/
+/venv/
+.idea/
+
+# Data
+/data/raw/
+/data/processed/
+
+# Python
+__pycache__/
+*.pyc
